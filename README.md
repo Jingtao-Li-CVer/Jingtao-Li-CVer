@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Detecting anomalies on Earth with AI and RS</h3>
+  <h3 align="center">CV for detecting anomalies on Earth</h3>
   <img src="https://github.com/Jingtao-Li-CVer/Jingtao-Li-CVer/blob/main/github_back2_00.jpg"><br><br>
 </div>
 
