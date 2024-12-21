@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" style="font-size: 30px;">CV for detecting anomalies on Earth</h1>
+  <h1 align="center" style="font-size: 30px;">Detecting Anomalies on Any Earth Obzervation Image</h1>
   <img src="https://github.com/Jingtao-Li-CVer/Jingtao-Li-CVer/blob/main/Large-scale-github.jpg"><br><br>
 </div>
 
